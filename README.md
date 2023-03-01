@@ -1,1 +1,1 @@
-# customerLabs-frontend
+# Customer Labs Front-End (React) Assessment
