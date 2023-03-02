@@ -52,7 +52,7 @@ function App() {
           </Button>
         </Grid>
       </Grid>
-      <Typography variant="h9">URL : {urlDisplay}</Typography>
+      <Typography variant="h9">Url : {urlDisplay}</Typography>
       <Grid>
         <Button variant="contained" onClick={() => setIsOpen(true)}>
           Save Segment
