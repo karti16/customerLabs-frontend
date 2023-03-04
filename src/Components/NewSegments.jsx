@@ -196,6 +196,7 @@ function NewSegments({ isOpen, setIsOpen, webhookUrl }) {
             variant="contained"
             color="success"
             onClick={() => handleSubmit()}
+            disabled={!segmentName}
           >
             Submit
           </Button>
